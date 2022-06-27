@@ -5,6 +5,8 @@
 
 ![Demo](https://github.com/helich0pper/DetectFaceMask/blob/master/demo.png) <br>
 
+Original can be found [here](https://github.com/chandrikadeb7/Face-Mask-Detection)
+
 # How does it work?
 All **pre-trained** deep neural network models used are in the ```models``` folder. <br>
 The datasets used to train the modules can be found [here](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG). <br>
